@@ -1,0 +1,2347 @@
+Fixter
+Bicycles
+$100
+
+Scorcher
+Bicycles
+$150
+
+BMX
+Bicycles
+$175
+
+BMX Custom
+Bicycles
+$200
+
+Tri-Cycles Race
+Bicycles
+$250
+
+Whippet Race
+Bicycles
+$250
+
+Endurex Race
+Bicycles
+$250
+
+Inductor Electric Bicycle
+Bicycles
+$1,500
+
+Low Rider
+Bicycles
+$50,000
+
+Rhapsody
+Compact Cars
+$14,000
+
+Panto
+Compact Cars
+$16,000
+
+Blista
+Compact Cars
+$18,000
+
+Prairie
+Compact Cars
+$18,500
+
+Dilettante
+Compact Cars
+$20,000
+
+Weevil Peanut
+Compact Cars
+$22,000
+
+Issi
+Compact Cars
+$24,000
+
+Brioso 300
+Compact Cars
+$25,000
+
+Issi Classic
+Compact Cars
+$25,000
+
+BF Weevil
+Compact Cars
+$32,000
+
+Grotti Brioso 300 Widebody
+Compact Cars
+$35,250
+
+Brioso R/A
+Compact Cars
+$38,000
+
+Maxwell Asbo
+Compact Cars
+$55,000
+
+Kanjo
+Compact Cars
+$75,000
+
+Dinka Postlude
+Coupes
+$30,000
+
+Sentinel XS
+Coupes
+$35,000
+
+Oracle XS
+Coupes
+$40,000
+
+Sentinel
+Coupes
+$41,000
+
+Oracle
+Coupes
+$43,500
+
+Jackal
+Coupes
+$45,000
+
+Felon
+Coupes
+$58,000
+
+Zion
+Coupes
+$60,000
+
+Felon GT
+Coupes
+$64,000
+
+Zion Cabrio
+Coupes
+$65,000
+
+Exemplar
+Coupes
+$65,000
+
+F620
+Coupes
+$80,000
+
+Dinka Kanjo SJ
+Coupes
+$85,000
+
+Fathom FR36
+Coupes
+$85,000
+
+Cognoscenti Cabrio
+Coupes
+$112,000
+
+Windsor
+Coupes
+$140,000
+
+Windsor Drop
+Coupes
+$150,000
+
+GoPostal Boxville
+Job Vehicles
+$1,000
+
+Garbage Truck
+Job Vehicles
+$5,000
+
+Taxi
+Job Vehicles
+$10,000
+
+Food Truck
+Job Vehicles
+$20,000
+
+Diamond Casino Security Alamo
+Job Vehicles
+$28,000
+
+Mechanic Truck
+Job Vehicles
+$35,000
+
+Flatbed
+Job Vehicles
+$40,000
+
+Weazel News Van
+Job Vehicles
+$45,000
+
+Ice Cream Truck
+Job Vehicles
+$45,000
+
+Hauler
+Job Vehicles
+$45,000
+
+Benson
+Job Vehicles
+$45,000
+
+Mule Recovery
+Job Vehicles
+$45,000
+
+Waste Trailer (Trailer)
+Job Vehicles
+$50,000
+
+Cerberus 300
+Job Vehicles
+$50,000
+
+Benefactor Imperial Taxi
+Job Vehicles
+$55,000
+
+Party Bus
+Job Vehicles
+$60,000
+
+Hauler Custom
+Job Vehicles
+$60,000
+
+Hauler Classic
+Job Vehicles
+$65,000
+
+Cerberus
+Job Vehicles
+$80,000
+
+Mule
+Job Vehicles
+$90,000
+
+Packer
+Job Vehicles
+$90,000
+
+Phantom
+Job Vehicles
+$100,000
+
+Mule (Ramp Door)
+Job Vehicles
+$100,000
+
+Stockade
+Job Vehicles
+$150,000
+
+Waste Trailer (Vehicle)
+Job Vehicles
+$150,000
+
+Phantom Custom
+Job Vehicles
+$180,000
+
+Phantom Custom XL
+Job Vehicles
+$250,000
+
+Brickade 6x6
+Job Vehicles
+$500,000
+
+Rat Bike (Beater)
+Motorcycles
+$3,250
+
+Faggio
+Motorcycles
+$12,500
+
+Faggio Sport
+Motorcycles
+$17,500
+
+Sanchez
+Motorcycles
+$22,000
+
+Manchez
+Motorcycles
+$23,000
+
+Faggio Mod
+Motorcycles
+$23,000
+
+Sanchez
+Motorcycles
+$23,000
+
+Manchez Scout
+Motorcycles
+$27,000
+
+Bagger
+Motorcycles
+$28,000
+
+Manchez Scout 2
+Motorcycles
+$28,000
+
+Vindicator
+Motorcycles
+$28,500
+
+Ruffian
+Motorcycles
+$30,000
+
+PCJ 600
+Motorcycles
+$31,000
+
+Enduro
+Motorcycles
+$32,000
+
+Carbon RS
+Motorcycles
+$34,000
+
+Daemon (Lost)
+Motorcycles
+$34,500
+
+Wolfsbane
+Motorcycles
+$34,750
+
+Zombie Chopper
+Motorcycles
+$35,000
+
+Daemon
+Motorcycles
+$35,250
+
+Zombie Bobber
+Motorcycles
+$35,250
+
+Nemesis
+Motorcycles
+$35,500
+
+Thrust
+Motorcycles
+$35,750
+
+Innovation
+Motorcycles
+$37,500
+
+Sovereign
+Motorcycles
+$38,500
+
+Esskey
+Motorcycles
+$39,500
+
+Vortex
+Motorcycles
+$41,000
+
+Cliffhanger
+Motorcycles
+$42,500
+
+Vader
+Motorcycles
+$43,500
+
+Avarus
+Motorcycles
+$45,250
+
+Hexer
+Motorcycles
+$46,000
+
+Kusa
+Motorcycles
+$53,500
+
+Kunoichi
+Motorcycles
+$55,500
+
+Gargoyle
+Motorcycles
+$56,000
+
+Bati 801
+Motorcycles
+$58,000
+
+Bati 801RR
+Motorcycles
+$58,100
+
+BF400
+Motorcycles
+$60,000
+
+Templar
+Motorcycles
+$60,000
+
+Deathbiker
+Motorcycles
+$61,000
+
+Deathbike
+Motorcycles
+$61,000
+
+FCR 1000
+Motorcycles
+$61,000
+
+FCR 1000 Custom
+Motorcycles
+$65,000
+
+Marabunta Bagger
+Motorcycles
+$65,000
+
+Bati 701
+Motorcycles
+$65,000
+
+Road Sport
+Motorcycles
+$65,000
+
+Akuma
+Motorcycles
+$65,250
+
+Diabolus
+Motorcycles
+$66,250
+
+Diabolus Custom
+Motorcycles
+$69,000
+
+Devil Head
+Motorcycles
+$70,000
+
+Nightblade
+Motorcycles
+$73,200
+
+Sanctus
+Motorcycles
+$75,000
+
+Stryder
+Motorcycles
+$80,000
+
+Double T
+Motorcycles
+$85,000
+
+Defiler
+Motorcycles
+$98,000
+
+Western Powersurge
+Motorcycles
+$100,000
+
+Hakuchou
+Motorcycles
+$120,000
+
+Lectro
+Motorcycles
+$150,000
+
+Western Reever
+Motorcycles
+$170,000
+
+Hakuchou Drag
+Motorcycles
+$210,000
+
+Nagasaki Shinobi
+Motorcycles
+$210,000
+
+Chimera
+Motorcycles
+$350,000
+
+Shotaro
+Motorcycles
+$1,000,000
+
+Voodoo (Beater)
+Muscle Cars
+$2,000
+
+Rat-Loader (Beater)
+Muscle Cars
+$4,500
+
+Sabre Turbo
+Muscle Cars
+$15,000
+
+Picador
+Muscle Cars
+$23,000
+
+Tulip
+Muscle Cars
+$26,000
+
+Vigero
+Muscle Cars
+$27,500
+
+Tampa
+Muscle Cars
+$28,000
+
+Buccaneer
+Muscle Cars
+$29,000
+
+Sabre Turbo Custom
+Muscle Cars
+$31,000
+
+Virgo
+Muscle Cars
+$31,500
+
+Virgo Classic
+Muscle Cars
+$32,000
+
+Buccaneer Custom
+Muscle Cars
+$34,000
+
+Virgo Classic Custom
+Muscle Cars
+$35,000
+
+Impaler
+Muscle Cars
+$35,500
+
+Vamos
+Muscle Cars
+$36,000
+
+Voodoo Custom
+Muscle Cars
+$37,000
+
+Ruiner
+Muscle Cars
+$37,500
+
+Dukes
+Muscle Cars
+$40,000
+
+Faction
+Muscle Cars
+$42,000
+
+Stallion
+Muscle Cars
+$43,000
+
+Chino
+Muscle Cars
+$44,000
+
+Phoenix
+Muscle Cars
+$45,000
+
+Slamvan Custom
+Muscle Cars
+$45,500
+
+Moonbeam
+Muscle Cars
+$46,000
+
+Faction Custom
+Muscle Cars
+$47,000
+
+Peyote Custom
+Muscle Cars
+$47,000
+
+Lost Slamvan
+Muscle Cars
+$48,000
+
+Rat-Truck
+Muscle Cars
+$49,000
+
+Ellie
+Muscle Cars
+$49,500
+
+Clique
+Muscle Cars
+$50,000
+
+Chino Custom
+Muscle Cars
+$51,000
+
+Moonbeam Custom
+Muscle Cars
+$52,000
+
+Bravado Greenwood
+Muscle Cars
+$52,000
+
+Clique Woodie
+Muscle Cars
+$52,000
+
+Glendale Custom
+Muscle Cars
+$52,000
+
+Blade
+Muscle Cars
+$53,000
+
+Gauntlet Custom
+Muscle Cars
+$54,000
+
+Faction Custom Donk
+Muscle Cars
+$54,000
+
+Burger Shot Stallion
+Muscle Cars
+$55,000
+
+Hermes
+Muscle Cars
+$56,000
+
+Gauntlet Classic Custom
+Muscle Cars
+$60,000
+
+Dominator
+Muscle Cars
+$62,000
+
+Tahoma Coupe
+Muscle Cars
+$62,000
+
+Slamvan
+Muscle Cars
+$62,500
+
+Gauntlet
+Muscle Cars
+$63,000
+
+Redwood Gauntlet
+Muscle Cars
+$64,000
+
+Dominator GTT
+Muscle Cars
+$64,500
+
+Duke O' Death
+Muscle Cars
+$65,000
+
+Yosemite
+Muscle Cars
+$65,000
+
+Albany Brigham
+Muscle Cars
+$72,000
+
+BF Weevil Custom
+Muscle Cars
+$75,000
+
+Tulip Custom
+Muscle Cars
+$75,000
+
+Peyote Gasser
+Muscle Cars
+$75,000
+
+Deviant
+Muscle Cars
+$83,000
+
+Nightshade
+Muscle Cars
+$87,500
+
+Pißwasser Dominator
+Muscle Cars
+$88,000
+
+Dominator GTX
+Muscle Cars
+$95,000
+
+Hotring Everon
+Muscle Cars
+$95,000
+
+Hustler
+Muscle Cars
+$97,500
+
+Hotknife
+Muscle Cars
+$105,000
+
+Coquette Blackfin
+Muscle Cars
+$110,000
+
+Hotring Hellfire
+Muscle Cars
+$110,000
+
+Gauntlet Hellfire
+Muscle Cars
+$115,000
+
+Imponte Ruiner ZZ-8
+Muscle Cars
+$120,000
+
+Yosemite Drift Custom
+Muscle Cars
+$125,000
+
+Declasse Vigero ZX
+Muscle Cars
+$160,000
+
+Buffalo EVX
+Muscle Cars
+$175,000
+
+Vigero ZX Convertible
+Muscle Cars
+$175,000
+
+Gauntlet Hellfire Widebody
+Muscle Cars
+$195,000
+
+Blazer
+Offroad Vehicles
+$4,000
+
+Duneloader (Beater)
+Offroad Vehicles
+$4,500
+
+Rebel (Beater)
+Offroad Vehicles
+$7,000
+
+Street Blazer
+Offroad Vehicles
+$12,000
+
+Dinka Verus
+Offroad Vehicles
+$15,000
+
+Hot Rod Blazer
+Offroad Vehicles
+$16,000
+
+Bodhi
+Offroad Vehicles
+$21,000
+
+Rebel
+Offroad Vehicles
+$27,500
+
+Bobcat XL
+Offroad Vehicles
+$30,000
+
+Karin Boor
+Offroad Vehicles
+$32,000
+
+Injection
+Offroad Vehicles
+$32,500
+
+Sadler Truck
+Offroad Vehicles
+$37,000
+
+Rancher XL
+Offroad Vehicles
+$38,000
+
+Bifta
+Offroad Vehicles
+$43,000
+
+Kalahari
+Offroad Vehicles
+$45,000
+
+Boat Monster
+Offroad Vehicles
+$45,000
+
+Vagrant Side by Side
+Offroad Vehicles
+$49,000
+
+Vapid Winky
+Offroad Vehicles
+$50,000
+
+Youga Classic 4x4
+Offroad Vehicles
+$55,000
+
+Dune Buggy
+Offroad Vehicles
+$56,000
+
+Outlaw Side by Side
+Offroad Vehicles
+$60,000
+
+Sandking SWB
+Offroad Vehicles
+$65,000
+
+Kuruma Rally
+Offroad Vehicles
+$67,000
+
+Riata
+Offroad Vehicles
+$70,000
+
+BeeJay XLR
+Offroad Vehicles
+$75,000
+
+Gallivanter Peacemaker
+Offroad Vehicles
+$75,000
+
+Brioso XL Monster
+Offroad Vehicles
+$75,000
+
+Annis Hellion
+Offroad Vehicles
+$80,000
+
+Monster Truck
+Offroad Vehicles
+$85,000
+
+Sandking XL
+Offroad Vehicles
+$85,000
+
+Free Crawler
+Offroad Vehicles
+$98,000
+
+Dubsta 6x6
+Offroad Vehicles
+$98,000
+
+HVY Vetir
+Offroad Vehicles
+$110,000
+
+DeClasse Walton L35
+Offroad Vehicles
+$115,000
+
+Mammoth Squaddie
+Offroad Vehicles
+$120,000
+
+Riata TX
+Offroad Vehicles
+$125,000
+
+Mesa
+Offroad Vehicles
+$130,000
+
+Cannis Jeep
+Offroad Vehicles
+$135,000
+
+Canis Terminus
+Offroad Vehicles
+$140,000
+
+Yosemite Rancher
+Offroad Vehicles
+$145,000
+
+Maibatsu MonstroCiti
+Offroad Vehicles
+$145,500
+
+Bison STX
+Offroad Vehicles
+$150,000
+
+Kamacho
+Offroad Vehicles
+$155,000
+
+Karin Everon
+Offroad Vehicles
+$160,000
+
+Bison Hellfire
+Offroad Vehicles
+$175,000
+
+Contender Sport
+Offroad Vehicles
+$180,000
+
+Mesa 4x4 Truck
+Offroad Vehicles
+$180,000
+
+Guardian
+Offroad Vehicles
+$215,000
+
+Caracara 4x4
+Offroad Vehicles
+$217,000
+
+Vapid Sandstorm
+Offroad Vehicles
+$220,000
+
+Patriot Mil-Spec
+Offroad Vehicles
+$230,000
+
+Baja off-road
+Offroad Vehicles
+$250,000
+
+Mojave
+Offroad Vehicles
+$260,000
+
+Brawler
+Offroad Vehicles
+$300,000
+
+Trophy Truck
+Offroad Vehicles
+$400,000
+
+Desert Raid
+Offroad Vehicles
+$420,000
+
+Declasse Draugur
+Offroad Vehicles
+$450,000
+
+Emperor (Beater)
+Sedans
+$2,500
+
+Asea
+Sedans
+$18,000
+
+Regina
+Sedans
+$18,500
+
+Asterope
+Sedans
+$20,000
+
+Ingot
+Sedans
+$21,000
+
+Washington
+Sedans
+$21,200
+
+Stanier
+Sedans
+$22,000
+
+Stratum
+Sedans
+$23,000
+
+Intruder
+Sedans
+$23,500
+
+Emperor Classic
+Sedans
+$24,000
+
+Primo
+Sedans
+$24,000
+
+Nebula Sedan
+Sedans
+$24,000
+
+Emperor Custom
+Sedans
+$25,000
+
+Emperor
+Sedans
+$25,000
+
+Tailgater
+Sedans
+$27,500
+
+Premier
+Sedans
+$28,250
+
+Impaler LX
+Sedans
+$30,000
+
+Primo Custom
+Sedans
+$31,000
+
+Glendale
+Sedans
+$32,000
+
+Asteroper GZ
+Sedans
+$35,000
+
+Schafter
+Sedans
+$43,000
+
+Fugitive
+Sedans
+$44,000
+
+Club Hatchback
+Sedans
+$44,000
+
+Impaler SZ
+Sedans
+$45,000
+
+Nebula Turbo Sedan
+Sedans
+$54,000
+
+Warrener
+Sedans
+$60,000
+
+Warrener HKR
+Sedans
+$65,000
+
+Surge
+Sedans
+$68,000
+
+Sultan Sedan
+Sedans
+$86,000
+
+Lurcher
+Sedans
+$100,000
+
+Impaler
+Sedans
+$100,000
+
+Lampadati Cinquemila
+Sedans
+$125,000
+
+Rhinehart
+Sedans
+$132,000
+
+Cognoscenti
+Sedans
+$140,000
+
+Cognoscenti 55
+Sedans
+$150,000
+
+Super Diamond
+Sedans
+$180,000
+
+Albany V-STR
+Sedans
+$182,000
+
+Stafford
+Sedans
+$195,000
+
+Lampadati Komoda
+Sedans
+$200,000
+
+Stretch Limo
+Sedans
+$210,000
+
+Romero Hearse
+Sedans
+$220,000
+
+Enus Deity
+Sedans
+$225,000
+
+Hermann
+Sedans
+$275,000
+
+Buffalo
+Sports Cars
+$35,000
+
+Buffalo S
+Sports Cars
+$37,500
+
+Sprunk Buffalo
+Sports Cars
+$39,000
+
+Futo
+Sports Cars
+$41,000
+
+Annis Remus
+Sports Cars
+$45,250
+
+Penumbra
+Sports Cars
+$45,750
+
+Futo GTX
+Sports Cars
+$52,000
+
+Rapid GT
+Sports Cars
+$52,000
+
+Blista Compact
+Sports Cars
+$54,500
+
+Rapid GT (Convertible)
+Sports Cars
+$55,000
+
+Revolter
+Sports Cars
+$56,000
+
+Pariah
+Sports Cars
+$57,500
+
+Go Go Monkey Blista
+Sports Cars
+$60,000
+
+Schafter LWB
+Sports Cars
+$62,000
+
+Surano
+Sports Cars
+$64,000
+
+Alpha
+Sports Cars
+$65,000
+
+Kuruma
+Sports Cars
+$67,000
+
+Raiden
+Sports Cars
+$68,000
+
+Schafter V12
+Sports Cars
+$69,500
+
+Schwartzer
+Sports Cars
+$73,250
+
+Karin Calico
+Sports Cars
+$74,250
+
+Fusilade
+Sports Cars
+$74,500
+
+Dinka RT3 Roadster
+Sports Cars
+$75,000
+
+Streiter
+Sports Cars
+$76,000
+
+GB200
+Sports Cars
+$82,500
+
+Sultan
+Sports Cars
+$86,000
+
+Feltzer
+Sports Cars
+$86,500
+
+9F
+Sports Cars
+$87,500
+
+Tropos Rallye
+Sports Cars
+$89,000
+
+Previon
+Sports Cars
+$90,000
+
+Hotring Sabre
+Sports Cars
+$92,500
+
+Sentinel Classic
+Sports Cars
+$93,000
+
+9F Cabrio
+Sports Cars
+$95,000
+
+Sultan Classic
+Sports Cars
+$95,000
+
+Elegy Retro Custom
+Sports Cars
+$96,000
+
+Sultan RS Classic
+Sports Cars
+$96,000
+
+Penumbra Custom
+Sports Cars
+$96,000
+
+Specter Custom
+Sports Cars
+$98,000
+
+Raptor
+Sports Cars
+$98,500
+
+Specter
+Sports Cars
+$100,000
+
+Comet
+Sports Cars
+$101,000
+
+Drift Tampa
+Sports Cars
+$105,000
+
+Comet Retro Custom
+Sports Cars
+$106,000
+
+Massacro
+Sports Cars
+$107,000
+
+Massacro (Racecar)
+Sports Cars
+$108,500
+
+Lynx
+Sports Cars
+$111,000
+
+Elegy RH8
+Sports Cars
+$112,500
+
+Dominator ASP
+Sports Cars
+$120,000
+
+Comet SR
+Sports Cars
+$120,250
+
+Übermacht Sentinel Classic
+Sports Cars
+$120,250
+
+Ruston
+Sports Cars
+$124,000
+
+Furore GT
+Sports Cars
+$125,000
+
+Jackal Widebody
+Sports Cars
+$125,000
+
+Khamelion
+Sports Cars
+$126,000
+
+Jester
+Sports Cars
+$128,000
+
+Schalagen GT
+Sports Cars
+$130,000
+
+Tailgater Sport
+Sports Cars
+$130,000
+
+Jester (Racecar)
+Sports Cars
+$132,000
+
+Omnis
+Sports Cars
+$132,000
+
+Jester Classic
+Sports Cars
+$134,500
+
+Bestia GTS
+Sports Cars
+$135,000
+
+Neon
+Sports Cars
+$135,750
+
+Coquette
+Sports Cars
+$137,500
+
+Carbonizzare
+Sports Cars
+$140,000
+
+Seven-70
+Sports Cars
+$143,500
+
+Banshee
+Sports Cars
+$145,000
+
+Sultan RsX
+Sports Cars
+$147,000
+
+Flash GT
+Sports Cars
+$150,000
+
+Penaud La Coureuse
+Sports Cars
+$150,000
+
+Emperor Vectre
+Sports Cars
+$150,000
+
+Sugoi Sport
+Sports Cars
+$152,000
+
+Buffalo STX
+Sports Cars
+$152,000
+
+Weeny Issi
+Sports Cars
+$152,000
+
+Verlierer
+Sports Cars
+$154,000
+
+Itali GTO
+Sports Cars
+$155,000
+
+Benefactor SM722
+Sports Cars
+$165,000
+
+Raiden Z
+Sports Cars
+$168,000
+
+Cheval Picador EXR
+Sports Cars
+$175,000
+
+Drafter 8F
+Sports Cars
+$175,000
+
+Elegy RH7 Custom
+Sports Cars
+$176,000
+
+Paragon R
+Sports Cars
+$185,000
+
+Lynx Widebody
+Sports Cars
+$191,000
+
+Annis ZR350
+Sports Cars
+$195,000
+
+Übermacht Cypher
+Sports Cars
+$200,000
+
+Elegy RH6
+Sports Cars
+$200,000
+
+Euros Sport Classic
+Sports Cars
+100,000
+
+Emperor LFA
+Sports Cars
+$230,000
+
+Comet S2 Cabrio
+Sports Cars
+$245,250
+
+Toundra Panthere
+Sports Cars
+$250,000
+
+Jugular
+Sports Cars
+$250,000
+
+Drafter 8F Widebody
+Sports Cars
+$255,000
+
+Överflöd Imorgon
+Sports Cars
+$260,000
+
+Euros Sport
+Sports Cars
+$275,000
+
+Annis ZR350 Widebody
+Sports Cars
+$275,000
+
+Übermacht Cypher Widebody
+Sports Cars
+$280,000
+
+Obey Omnis e-GT
+Sports Cars
+$280,250
+
+Lampadati Corsita
+Sports Cars
+$280,250
+
+Vysser Neo
+Sports Cars
+$300,000
+
+Dominator GT
+Sports Cars
+$325,000
+
+Itali Stinger TT
+Sports Cars
+$325,000
+
+Jester RR
+Sports Cars
+$355,000
+
+Annis ZR390
+Sports Cars
+$355,000
+
+Obey 10F
+Sports Cars
+$375,000
+
+Annis 300R
+Sports Cars
+$400,000
+
+Dominator GT Coupe
+Sports Cars
+$405,000
+
+Niobe
+Sports Cars
+$425,000
+
+Jester RR Widebody
+Sports Cars
+$435,000
+
+Sultan RS
+Sports Cars
+$450,000
+
+Sentinel GTS
+Sports Cars
+$450,000
+
+Obey 10F Widebody
+Sports Cars
+$455,000
+
+S95
+Sports Cars
+$475,000
+
+Tempesta Sport X
+Sports Cars
+$530,000
+
+RH8 Custom WB
+Sports Cars
+$755,000
+
+Tornado (Beater)
+Sports Classic Cars
+$2,000
+
+Tornado [(Beater) Convertible]
+Sports Classic Cars
+$2,250
+
+Manana
+Sports Classic Cars
+$33,500
+
+Michelli GT
+Sports Classic Cars
+$34,000
+
+Tornado Rat Rod
+Sports Classic Cars
+$34,500
+
+Cheburke
+Sports Classic Cars
+$35,000
+
+Savestra
+Sports Classic Cars
+$36,000
+
+Casco
+Sports Classic Cars
+$38,500
+
+Peyote
+Sports Classic Cars
+$41,000
+
+Manana Custom
+Sports Classic Cars
+$43,500
+
+Tornado
+Sports Classic Cars
+$44,000
+
+Retinue
+Sports Classic Cars
+$45,000
+
+Fagaloa
+Sports Classic Cars
+$46,500
+
+Weeny Dynasty
+Sports Classic Cars
+$46,500
+
+Rapid GT Classic
+Sports Classic Cars
+$47,500
+
+Tornado (Convertible)
+Sports Classic Cars
+$48,000
+
+Zion Classic
+Sports Classic Cars
+$52,000
+
+Stinger
+Sports Classic Cars
+$56,000
+
+Monroe
+Sports Classic Cars
+$57,000
+
+Tornado Custom
+Sports Classic Cars
+$58,000
+
+Classique Broadway
+Sports Classic Cars
+$62,000
+
+Viseris
+Sports Classic Cars
+$62,500
+
+Pigalle
+Sports Classic Cars
+$63,000
+
+Turismo Classic
+Sports Classic Cars
+$65,000
+
+Willard Eudora
+Sports Classic Cars
+$65,000
+
+Ocelot Ardent
+Sports Classic Cars
+$65,000
+
+190z
+Sports Classic Cars
+$72,500
+
+GT500
+Sports Classic Cars
+$74,000
+
+Weeny Brisket Roadster
+Sports Classic Cars
+$75,000
+
+Retinue MK II
+Sports Classic Cars
+$75,250
+
+Swinger
+Sports Classic Cars
+$82,500
+
+Torero
+Sports Classic Cars
+$85,000
+
+Stinger GT
+Sports Classic Cars
+$85,000
+
+Coquette Classic
+Sports Classic Cars
+$87,500
+
+Infernus Classic
+Sports Classic Cars
+$96,000
+
+Roosevelt
+Sports Classic Cars
+$100,000
+
+Z-Type
+Sports Classic Cars
+$105,000
+
+Cheetah Classic
+Sports Classic Cars
+$105,000
+
+Stirling GT
+Sports Classic Cars
+$108,000
+
+Comet Safari
+Sports Classic Cars
+$110,000
+
+Fränken Stange
+Sports Classic Cars
+$115,000
+
+Mamba
+Sports Classic Cars
+$115,000
+
+Annis zr150
+Sports Classic Cars
+$115,500
+
+Rebel Drift
+Sports Classic Cars
+$117,000
+
+Roosevelt Valor
+Sports Classic Cars
+$125,000
+
+Deluxo
+Sports Classic Cars
+$125,000
+
+Schrauber
+Sports Classic Cars
+$130,000
+
+Dinka Nexus
+Sports Classic Cars
+$175,000
+
+Annis Remus T-5
+Sports Classic Cars
+$185,000
+
+Infernus
+Super Cars
+$625,000
+
+Bullet
+Super Cars
+$650,000
+
+Voltic
+Super Cars
+$655,000
+
+Cyclone
+Super Cars
+$660,000
+
+Banshee Super
+Super Cars
+$675,000
+
+Cheetah
+Super Cars
+$725,000
+
+Entity XF
+Super Cars
+$750,000
+
+Coquette D10
+Super Cars
+$775,500
+
+ETR1
+Super Cars
+$780,000
+
+Comet S2
+Super Cars
+$790,000
+
+Osiris
+Super Cars
+$800,000
+
+Vagner
+Super Cars
+$820,000
+
+Itali GTB
+Super Cars
+$850,000
+
+RE-7B
+Super Cars
+$850,000
+
+Locust Super
+Super Cars
+$855,500
+
+GP1
+Super Cars
+$860,000
+
+Penetrator
+Super Cars
+$900,000
+
+Pfister Growler
+Super Cars
+$950,000
+
+Vacca
+Super Cars
+$980,000
+
+Reaper
+Super Cars
+$985,000
+
+T20
+Super Cars
+$1,000,000
+
+Adder
+Super Cars
+$1,020,000
+
+Tempesta
+Super Cars
+$1,100,000
+
+Grotti Itali RSX
+Super Cars
+$1,100,000
+
+Visione
+Super Cars
+$1,130,000
+
+Tyrus
+Super Cars
+$1,160,000
+
+FMJ
+Super Cars
+$1,200,000
+
+Entity XXR
+Super Cars
+$1,250,000
+
+Itali GTB Custom
+Super Cars
+$1,260,000
+
+Nero
+Super Cars
+$1,420,000
+
+Thrax Hyper
+Super Cars
+$1,420,000
+
+Turismo Omaggio
+Super Cars
+$1,500,000
+
+Turismo R
+Super Cars
+$1,500,000
+
+X80 Proto
+Super Cars
+$1,525,000
+
+Dewbauchee Champion
+Super Cars
+$1,550,000
+
+Tyrant
+Super Cars
+$1,580,000
+
+SC1
+Super Cars
+$1,600,000
+
+Överflöd Zeno
+Super Cars
+$1,600,000
+
+Furia Super
+Super Cars
+$1,620,000
+
+Nero Custom
+Super Cars
+$1,650,000
+
+811
+Super Cars
+$1,700,000
+
+Benefactor LM87
+Super Cars
+$1,700,000
+
+Ocelot Virtue
+Super Cars
+$1,750,000
+
+Progen Emerus
+Super Cars
+$1,775,000
+
+Zentorno
+Super Cars
+$1,800,000
+
+Pegassi Zorrusso
+Super Cars
+$1,820,000
+
+Entity MT
+Super Cars
+$1,850,000
+
+Tezeract
+Super Cars
+$1,850,000
+
+Taipan
+Super Cars
+$1,860,000
+
+Pegassi Ignus
+Super Cars
+$1,900,000
+
+Autarach
+Super Cars
+$1,920,000
+
+Benefactor Krieger
+Super Cars
+$1,925,000
+
+Pegassi Torero XO
+Super Cars
+$1,950,500
+
+XA-21
+Super Cars
+$2,000,000
+
+Mesa (SUV)
+SUVs
+$35,000
+
+Cavalcade
+SUVs
+$39,500
+
+Landstalker
+SUVs
+$43,000
+
+Cavalcade 2
+SUVs
+$47,500
+
+Rocoto
+SUVs
+$48,000
+
+Baller (Older Model)
+SUVs
+$52,500
+
+Seminole Frontier
+SUVs
+$54,000
+
+Seminole
+SUVs
+$55,000
+
+Radius
+SUVs
+$56,000
+
+XLS
+SUVs
+$57,000
+
+Granger
+SUVs
+$58,000
+
+BeeJay XL
+SUVs
+$60,000
+
+Gresley
+SUVs
+$61,500
+
+Habanero
+SUVs
+$62,000
+
+Dubsta
+SUVs
+$64,500
+
+Landstalker 2
+SUVs
+$65,000
+
+Patriot
+SUVs
+$68,000
+
+Granger 3600LX
+SUVs
+$72,000
+
+Dubsta2
+SUVs
+$72,000
+
+Baller
+SUVs
+$75,000
+
+Serrano
+SUVs
+$78,000
+
+FQ 2
+SUVs
+$82,500
+
+Pfister Astron
+SUVs
+$100,250
+
+Enus Jubilee
+SUVs
+$112,000
+
+Baller LE
+SUVs
+$115,000
+
+Bravado Dorado
+SUVs
+$120,000
+
+Scout 2020
+SUVs
+$125,000
+
+Vapid Aleutian
+SUVs
+$125,000
+
+Huntley S
+SUVs
+$125,000
+
+Baller LE LWB
+SUVs
+$130,000
+
+Toros
+SUVs
+$135,000
+
+Contender
+SUVs
+$145,000
+
+Issi Rally
+SUVs
+$145,000
+
+Baller ST-D
+SUVs
+$145,000
+
+Lampadati SUV
+SUVs
+$155,000
+
+Obey I-Wagen
+SUVs
+$175,000
+
+Baller ST
+SUVs
+$185,000
+
+Cavalcade XL
+SUVs
+$200,000
+
+Cypher Hatchback
+SUVs
+$200,000
+
+Patriot Stretch Limo
+SUVs
+$215,000
+
+Übermach Rebla GTS
+SUVs
+$220,000
+
+Caddy
+Utility Vehicles
+$10,000
+
+Caddy 2
+Utility Vehicles
+$10,000
+
+Caddy 3
+Utility Vehicles
+$10,000
+
+Mower
+Utility Vehicles
+$15,000
+
+Scrap Tractor
+Utility Vehicles
+$20,000
+
+Tractor
+Utility Vehicles
+$35,000
+
+Scrap Truck
+Utility Vehicles
+$35,000
+
+Tip Truck
+Utility Vehicles
+$50,000
+
+Cement Mixer
+Utility Vehicles
+$60,000
+
+Biff Truck
+Utility Vehicles
+$60,000
+
+Utility Truck
+Utility Vehicles
+$60,000
+
+Bulldozer
+Utility Vehicles
+$80,000
+
+FBI
+Utility Vehicles
+$100,000,000
+
+Surfer (Beater)
+Vans
+$3,500
+
+Taco Van
+Vans
+$12,500
+
+Surfer
+Vans
+$30,000
+
+Minivan
+Vans
+$32,500
+
+Surfer Custom
+Vans
+$34,000
+
+Paradise
+Vans
+$35,000
+
+Bison
+Vans
+$35,000
+
+Youga
+Vans
+$37,500
+
+Journey
+Vans
+$40,000
+
+Youga Classic
+Vans
+$40,000
+
+Regular Burrito
+Vans
+$40,000
+
+Minivan Custom
+Vans
+$45,000
+
+Journey Custom
+Vans
+$47,000
+
+Youga Custom
+Vans
+$49,200
+
+Gang Burrito
+Vans
+$55,000
+
+Speedo Custom
+Vans
+$56,000
+
+Benefactor Imperial
+Vans
+$65,000
+
+Rumpo Custom
+Vans
+$70,000
+
+Vivanite
+Vans
+$70,000
